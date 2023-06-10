@@ -6,7 +6,7 @@ Please clone this repository as your initial activity for git. Thank you
 
 Add your name at your name here after my Name.
 
-Roi Francisco
+Roi Francisco - Instructor
 Levy June O. Magistrado
 Jonas Isaiah P. Mulingbayan
 Camille D. Tubo
@@ -22,3 +22,4 @@ Earl Patrick Sarabia
 Kent C. Alegria
 Jessica Capoquian
 Angelica M. Abeabe
+
