@@ -10,10 +10,5 @@ Roi Francisco
 Levy June O. Magistrado
 Jonas Isaiah P. Mulingbayan
 Camille D. Tubo
-Kaye S. Billones
-Vincent John L. Ortega
-Angel Beltran
-John Michael Rey S. Loro
-Marvinz V. Mendez
-Shane Austin G. Relova
-Ryan Hantal
+Harvey D. Gultiano   
+
