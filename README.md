@@ -16,3 +16,4 @@ Angel Beltran
 John Michael Rey S. Loro
 Marvinz V. Mendez
 Shane Austin G. Relova
+Ryan Hantal
