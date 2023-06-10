@@ -22,5 +22,6 @@ Earl Patrick Sarabia
 Kent C. Alegria
 Jessica Capoquian
 Angelica M. Abeabe
+Jerry B. Solis
 Harvey D. Gultiano
 Princess L.Salvador
