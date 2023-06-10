@@ -16,5 +16,3 @@ Vincent John L. Ortega
 Jomarc B. Bapor
 =======
 Angel Beltran
->>>>>>> 37b6b8772b687d60e6315403767ddc6fb61ae837
-Jomarc B. Bapor
