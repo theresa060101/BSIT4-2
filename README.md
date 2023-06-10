@@ -24,3 +24,4 @@ Jessica Capoquian
 Angelica M. Abeabe
 Harvey D. Gultiano
 Princess L.Salvador
+Ken Aldrich R. Rosales
