@@ -17,3 +17,4 @@ John Michael Rey S. Loro
 Marvinz V. Mendez
 Shane Austin G. Relova
 Ryan Hantal
+Earl Patrick Sarabia
