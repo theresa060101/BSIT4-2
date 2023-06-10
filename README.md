@@ -22,3 +22,4 @@ Earl Patrick Sarabia
 Kent C. Alegria
 Jessica Capoquian
 Patrick Erwin Arciaga
+Harvey D. Gultiano
