@@ -19,3 +19,4 @@ Shane Austin G. Relova
 Ryan Hantal
 Earl Patrick Sarabia
 Kent C. Alegria
+Jessica Capoquian
