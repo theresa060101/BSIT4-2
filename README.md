@@ -23,3 +23,4 @@ Kent C. Alegria
 Jessica Capoquian
 Angelica M. Abeabe
 Harvey D. Gultiano
+Ken Aldrich R. Rosales
