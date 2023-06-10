@@ -7,9 +7,8 @@ Please clone this repository as your initial activity for git. Thank you
 Add your name at your name here after this my Name.
 
 Roi Francisco
-Levy June O. Magistrado
-Jonas Isaiah P. Mulingbayan
-Camille D. Tubo
-Kaye S. Billones
-Vincent John L. Ortega
+
+
+
+
 John Michael Rey S. Loro
