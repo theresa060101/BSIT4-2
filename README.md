@@ -16,3 +16,6 @@ Vincent John L. Ortega
 Jomarc B. Bapor
 =======
 Angel Beltran
+John Michael Rey S. Loro
+Marvinz V. Mendez
+Jomarc B. Bapor
