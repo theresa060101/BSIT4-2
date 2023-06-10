@@ -22,4 +22,4 @@ Earl Patrick Sarabia
 Kent C. Alegria
 Jessica Capoquian
 Angelica M. Abeabe
-
+Zedrick P. Sanopao
