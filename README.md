@@ -28,3 +28,4 @@ Princess L.Salvador
 Ken Aldrich R. Rosales
 Zedrick P. Sanopao
 Paul Adrian B. Cayago
+Abdulazis T. Daniel
