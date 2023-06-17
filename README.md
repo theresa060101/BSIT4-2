@@ -31,3 +31,4 @@ Roi Francisco - Instructor
 <br>Paul Adrian B. Cayago
 <br>Abdulazis T. Daniel
 <br>John Rey B. Calandria
+<br>Axel Iverson L. Ruiz
