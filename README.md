@@ -29,3 +29,4 @@ Ken Aldrich R. Rosales
 Zedrick P. Sanopao
 Paul Adrian B. Cayago
 Abdulazis T. Daniel
+John Rey B. Calandria
