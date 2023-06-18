@@ -32,3 +32,4 @@ Roi Francisco - Instructor
 <br>Abdulazis T. Daniel
 <br>John Rey B. Calandria
 <br>Axel Iverson L. Ruiz
+<br>Rendell Arevalo
