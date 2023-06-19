@@ -8,6 +8,7 @@ Add your name at your name here after my Name.
 
 Roi Francisco - Instructor
 
+<br>Renalyn C. Hermosa
 <br>Levy June O. Magistrado
 <br>Jonas Isaiah P. Mulingbayan
 <br>Camille D. Tubo
