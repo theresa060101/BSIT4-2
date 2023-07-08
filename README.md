@@ -35,3 +35,5 @@ Roi Francisco - Instructor
 <br>Axel Iverson L. Ruiz
 <br>Rendell Arevalo
 <br>Patrick Erwin Arcoaga
+<br>Adrian J. Clemencio
+
